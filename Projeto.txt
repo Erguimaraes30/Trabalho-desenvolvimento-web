@@ -1,0 +1,31 @@
+1- Python
+ referência:https://docs.python.org/3/
+ Python é uma linguagem de programação versátil e poderosa que pode ser utilizada para uma variedade de 
+ finalidades como Desenvolvimento Web, Analise de dados, Desenvolvimento de jogos, entre outros.
+ Tópicos: 4, 11, 12, 13
+
+2-Git
+ referência:https://git-scm.com/doc
+ Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de 
+ software para rastrear mudanças no código-fonte durante o desenvolvimento de um projeto. 
+ Tópicos: 4
+
+3- sQlite Browser
+ referência: https://sqlitebrowser.org/blog/
+ O SQLite Browser é uma ferramenta visual usada para criar, projetar e editar
+ arquivos de banco de dados compatíveis com SQLite.
+ Tópicos: 8, 14
+
+4-Visual Studio Code 
+ referência:https://code.visualstudio.com/Docs
+ O Visual Studio Code, frequentemente abreviado como VS Code, é um ambiente de desenvolvimento
+integrado (IDE) leve e de código-fonte aberto desenvolvido pela Microsoft
+Tópicos: 11
+
+5- Navegadores
+ referência:https://learn.microsoft.com/en-us/microsoft-edge/ - https://dev.opera.com/ -
+  https://firefox-source-docs.mozilla.org/-https://developer.chrome.com/docs?hl=pt-br
+  Os navegadores, ou em inglês browsers, são programas concebidos para abrir
+páginas de Internet, conhecidas também por web sites ou simplesmente sites, que podem ser escritas em 
+linguagens como HTML, HTML5 ou XHTML. Estes sites têm de estar hospedados em servidores Web.
+Tópicos: 1, 3
