@@ -1,3 +1,7 @@
+NOME DA DISCIPLINA: Desenvolvimento web
+PERIODO: Primeiro período 
+ANO ATUAL: 2024 
+
 1- Python
  referência:https://docs.python.org/3/
  Python é uma linguagem de programação versátil e poderosa que pode ser utilizada para uma variedade de 
