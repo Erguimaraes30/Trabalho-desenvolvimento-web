@@ -1,0 +1,28 @@
+#ins1 {
+    background-color: lightblue;
+    color: red;
+    font-weight: bold;
+}
+
+h1{
+    font-family: "Truculenta", sans-serif;
+
+    
+}
+
+#form1{
+    background-color:chartreuse;
+}
+
+#form2{
+    background-color: chartreuse;
+}
+
+#div2{
+    background-color: blueviolet;
+    font-size: 37px;
+}
+
+#div1{
+    font-size: 1.840em;
+}
